@@ -5,6 +5,7 @@ body {
     padding: 0;
     text-align: center;
     background-color: #f5f0ea;
+    /* width: 100%; */
 }
 
 
@@ -131,4 +132,9 @@ body {
     background-size: cover;
    margin-top: -140px;
    border-radius: 100%;
+}
+
+
+#simran{
+    background-color: #666;
 }
